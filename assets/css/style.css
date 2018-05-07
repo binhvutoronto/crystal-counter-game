@@ -1,0 +1,97 @@
+
+
+* {
+    box-sizing: border-box;
+  }
+  
+  
+  body {
+    font-family: cursive;
+    font-size: 20px;
+    line-height: 25px;
+    color: red;
+    background-image: url('../images/background.jpg');
+  }
+  
+  
+  
+  .myPageHeader {
+    background-color: #ffffff;
+  }
+  
+  .myPageHeader img {
+    width: 100px;
+    height: 100px;
+    float: left;
+  }
+  
+  .myPageHeader h1{
+    position: relative;
+    top: 18px;
+    left: 10px;
+  }
+  
+  .myPanel {
+    background-color: #4cfcf2;
+    margin-bottom: 2px;
+  }
+  
+  .myThumbnail {
+    height: 100px;
+    width: 100px;
+    float: left;
+    margin-left: 0;
+    padding-left: 0;
+  }
+  
+  .statsBox {
+    height: 50px;
+    background-color: #4cfcf2;
+  }
+  
+  .statsNum {
+    margin-top: 30px;
+    margin-left: 10px;
+    text-align: center;
+    font-size: 1.5em;
+    color: blue;
+    font-weight: 500;
+  }
+  
+  .leftJustify {
+    padding-left: 0;
+  }
+  
+  
+  #myJumbotron {
+    background-color:rgb(201, 236, 129);
+    color: blue;
+    padding: 10px;
+  }
+  
+  #directions {
+    clear:both;
+    padding: 5px;
+    margin-top: 5px;
+    
+  }
+  #gameRandomBox {
+    background-color: #32cd32;
+    height: 100px;
+  
+  }
+  
+  #num2Guess {
+    margin-top: 20px;
+    margin-bottom: 100px;
+    margin-left: 20px;
+    line-height: 50px;
+    color: blue;
+    font-size: 3em;
+    font-weight: 700;
+  }
+  
+  #winsBox {
+    margin-bottom: 2px;
+  }
+  
