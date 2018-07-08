@@ -1,4 +1,4 @@
-# unit-4-game
+# Crystal Counter Game
 
 This is the crystal game counter.
 
@@ -11,3 +11,5 @@ You win the game by matching your total score to the random number chosen by the
 The value of each crystal is hidden from you until you click on it.
 
 Each time the game starts, it will change the values of each crystal.
+
+[Crystal Counter Game](https://binhvutoronto.github.io/crystal-counter-game/)
